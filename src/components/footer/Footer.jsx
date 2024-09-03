@@ -18,15 +18,16 @@ function Footer() {
 
                     <div className='footer-link-items'>
                         <h2>Om</h2>
-                        <div className='p3'>Susanne Pennsäter</div>
-                        <div className='p3'>Sweden, Skåne, Lund</div>
-                        <div className='p3'>KBT-terapeut</div>
+                        <div className='p3'>Ateljé 9 AB</div>
+                        <div className='p3'>Lena Fors</div>
+                        <div className='p3'>Terapeut</div>
                     </div>
 
                     <div className='footer-link-items'>
                         <h2>Kontakt</h2>
-                        <div className='p3'>0702884886</div>
-                        <div className='p3'>-@gmail.com</div>
+                        <div className='p3'>070-142 24 23</div>
+                        <div className='p3'>lenafors.atelje9@</div>
+                        <div className='p3'>outlook.com</div>
                     </div>
 
                 </div>
@@ -42,7 +43,7 @@ function Footer() {
 
                     <div className='footer-link-items'>
                         <h2>Länkar</h2>
-                        <Link to='https://www.linkedin.com/in/susanne-penns%C3%A4ter-2a0636138/' target='_blank'>LinkedIn</Link>
+                        <Link to='https://www.linkedin.com/in/lena-krabisch-fors-6033a516/?original_referer=&originalSubdomain=se' target='_blank'>LinkedIn</Link>
                         <Link to='' target='_blank'>Google business</Link>
 
                     </div>
@@ -64,7 +65,7 @@ function Footer() {
 
                         <Link
                             className='social-icon-link linkedin'
-                            to='https://www.linkedin.com/in/susanne-penns%C3%A4ter-2a0636138/'
+                            to='https://www.linkedin.com/in/lena-krabisch-fors-6033a516/?original_referer=&originalSubdomain=se'
                             target='_blank'
                             aria-label='LinkedIn'
                         >

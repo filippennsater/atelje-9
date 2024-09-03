@@ -15,10 +15,10 @@ function HomeSection() {
                 <figure className="home-self" />
             </div>
             <div className='intro-text'>
-                <h1>Susanne Pennsäter</h1>
-                <h2>KBT</h2>
+                <h1>Lena Fors</h1>
+                <h1>Hälsocoach</h1>
                 <h1>och</h1>
-                <h1>Hälsa</h1>
+                <h1>Företagshälsovård</h1>
             </div>
         </div>
     )
