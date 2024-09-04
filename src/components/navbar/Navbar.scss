@@ -41,7 +41,7 @@
 }
 
 .nav div.logo a:hover {
-    color: #006936;
+    color: rgb(137, 132, 127);
 }
 
 .nav div.main_list {
@@ -73,7 +73,7 @@
 }
 
 .nav div.main_list ul li a:hover {
-    color: #00703a;
+    color: rgb(137, 132, 127);
 }
 
 
@@ -130,7 +130,7 @@
         right: 0;
         left: 0;
         bottom: 0;
-        background-color: #111;
+        background-color: rgb(43, 46, 65);
         /*same background color of navbar*/
         background-position: center top;
     }
@@ -344,7 +344,7 @@
 
 .affix {
     padding: 0;
-    background-color: #111;
+    background-color: rgb(43, 46, 65);
     line-height: calc(65px + 3.2vw);
 }
 

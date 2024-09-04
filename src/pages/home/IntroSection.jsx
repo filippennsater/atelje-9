@@ -42,7 +42,7 @@ function IntroSection() {
         
         <div className='intr-text-container'>
           <div className='intrctext'>
-            Välkommen till min hemsida! Jag heter Susanne Pennsäter och är KBT-terapeut. Här kan du få hjälp med att hantera stress, ångest, depression och andra livsutmaningar genom kognitiv beteendeterapi (KBT). Jag erbjuder individuella samtal anpassade efter dina unika behov och mål. Utforska sidan för mer information om mina tjänster och hur vi tillsammans kan arbeta för ditt välbefinnande.
+            Välkommen till min sida! Jag heter Lena Fors, och jag brinner för att hjälpa människor och företag att må bättre genom hälsofrämjande och förebyggande insatser. Oavsett om du söker stöd för att hantera stress, utveckla starkare team eller behöver samtalsstöd, så är du på rätt plats. Jag ser fram emot att få hjälpa dig på din resa mot en bättre hälsa och starkare relationer.
           </div>
         </div>
 
